@@ -1,3 +1,3 @@
 #printing a message from my Celphone
 
-print('Hello there.  Greeting from Galaxy-A33')
+print('Hello there.  Greetings from Galaxy-A33')
